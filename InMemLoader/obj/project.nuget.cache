@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ayc+65b65A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mxmla\\source\\repos\\InMemLoader\\InMemLoader\\InMemLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mxmla\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\mxmla\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
+    "C:\\Users\\mxmla\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
+    "C:\\Users\\mxmla\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\mxmla\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
