@@ -6,12 +6,14 @@ using Microsoft.CodeAnalysis.CSharp;
 using System.Reflection;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 
 public class InMemLoader
 {
 
     public static async Task Main(string[] args)
     {
+        Console.WriteLine("encription initalized")
         try
         {
             string exePath = System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName;
